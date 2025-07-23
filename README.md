@@ -4,6 +4,14 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=prasystarboy;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
+# <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+</a>
+</div>
+<p><center>
+
+___________________________________________________________________
+
 ![Prasy Starboy](https://github.com/prasystarboy/prasystarboy/blob/prasy/image/Prasy%20Starboy.jpg)
 
 
@@ -11,14 +19,6 @@
 > - 👀 **I’m Interested In Ethical Hacking**
 > - 💫 **I’m Currently Learning A Lot Of Things**
 > - 💞️ **I’m Looking To Collaborate On Google**
-
-___________________________________________________________________
-
-# <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
-</a>
-</div>
-<p><center>
 
 ___________________________________________________________________
 
